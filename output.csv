@@ -1,4 +1,4 @@
-Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
+Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 11/16/2025,Push,Bench Press,3,114.0925,8,2738.22,Failed  on last 2
 11/16/2025,Push,Cable Lateral Raise,3,5,9,135,Did Kojo's new Technique
 11/16/2025,Push,Dumbbell Lateral Raise,3,10,8,240,Felt easy
@@ -51,7 +51,7 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 1/6/2026,Pull,Lat Pull Down,3,85,8,2040,
 1/6/2026,Pull,Low Rows,3,90,8,2160,
 1/6/2026,Pull,Ez Bar Curls,3,30,8,720,
-1/6/2026,Pull,Close Grip Easy Bar Curl,,,,0,
+1/6/2026,Pull,Close Grip Easy Bar Curl,1,30,8,240,
 1/7/2025,Push,Incline Dumbbell Bench,3,70,8,1680,
 1/7/2025,Push,Deficit Pushups,2,145,8,2320,
 1/7/2025,Push,Tricep Push Down,3,35,8,840,
@@ -62,7 +62,7 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 2/9/2026,Pull,Unsupported Chest Row,3,70,8,1680,
 2/9/2026,Pull,Inverse Zottmen Curls,3,22.75,8,546,
 2/9/2026,Pull,Side To Side Hammer Curls,3,20,7,420,
-2/11/2026,Push,Bench Press,3,,,0,
+2/11/2026,Push,Bench Press,3,125,5,1875,
 2/11/2026,Push,Dips,3,15,7,315,
 2/13/2026,Leg,Calf Rais,3,60,8,1440,
 2/13/2026,Leg,Squats,3,95,7,1995,
@@ -82,7 +82,7 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 2/27/2025,Pull,Ez Bar Curls,2,50,8,800,
 2/27/2025,Pull,Ez Bar Curls,1,40,8,320,
 2/27/2025,Pull,Rear Cable Fly,3,10,8,240,
-2/27/2025,Pull,Leg Raises,3,Bodybweight,13,#VALUE!,Failure every set
+2/27/2025,Pull,Leg Raises,3,0,13,0,Failure every set
 2/27/2025,Pull,Zercher Sandbag Carry,3,45,45,6075,
 2/28/2026,Push,Zercher Hold,3,105,1,315,
 2/28/2026,Push,Overhead Press,3,80,3,720,
@@ -97,15 +97,15 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 3/1/2026,Leg,Back Squat ,3,95,8,2280,Started at 105 but failed on the second set.
 3/1/2026,Leg,Hip Thrusts,3,156,8,3744,First time
 3/1/2026,Leg,Calf Extension,3,121,8,2904,
-3/1/2026,Leg,Leg Raises,3,bodyweight,15,,beyond failure
+3/1/2026,Leg,Leg Raises,3,0,15,,beyond failure
 3/1/2026,Leg,Cabel Anti Rotation,1,14.5,2,29,This shit sucks ass
 3/1/2026,Leg,Farmer Carries,1,23,1,23,Walked around the track once
 3/2/2026,Pull,Seated rows,3,100,8,2400,
-3/2/2026,Pull,Sternum Pull ups,3,Body weight ,8,#VALUE!,Last set did 10 reps
+3/2/2026,Pull,Sternum Pull ups,3,0,8,0,Last set did 10 reps
 3/2/2026,Pull,Preacher hammer curls,3,20,8,480,Failed on 8
-3/2/2026,Pull,Zercher holds,3,125,1 min,#VALUE!,
+3/2/2026,Pull,Zercher holds,3,125,1,375,
 3/2/2026,Pull,Rear delt fly,3,5,11,165,Low weight high reps
-3/2/2026,Pull,Hollow Hold,2,Body weight,1:30 min,#VALUE!,
+3/2/2026,Pull,Hollow Hold,2,0,1.5,0,
 3/5/2026,Leg,Seated leg curl,3,60,3,540,First time doing these
 3/5/2026,Leg,Zercher Squats,3,95,8,2280,
 3/5/2026,Leg,RDL,3,150,8,3600,
@@ -118,7 +118,7 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 3/9/2026,Pull,Unsupported chest t bar row,3,70,9,1890,
 3/9/2026,Pull,Rear Delt Fly,3,5,10,150,
 3/9/2026,Pull,Narrow Ez Bar curl,3,50,8,1200,
-3/9/2026,Pull,Leg Raises,3,Body Weight,Failure,#VALUE!,
+3/9/2026,Pull,Leg Raises,3,0,10,0,
 3/9/2026,Pull,Anti Rotation,3,27,1,81,1 rep per side
 3/10/2026,Leg,Prone Hamstring Curls,3,90,8,2160,
 3/10/2026,Leg,Back Squat,3,120,5,1800,
@@ -210,4 +210,7 @@ Date,Day,Excercises,Set #,Weight,# of Reps,Volume,Notes
 4/5/2026,Pull,Narrow Ez Bar curl,3,50,8,1200,
 4/5/2026,Pull,Zercher Hold,3,55,1,165,1 min per set
 4/5/2026,Pull,Crunch Machine,3,50,15,2250,
-,,Overhead Press,3,75,8,1800,
+4/6/2026,Push,Overhead Press,3,75,8,1800,
+4/6/2026,Push,Dumbell Incline Bench,3,45,8,1080,
+4/6/2026,Push,Cable Lateral Raise,3,12.5,6,225,
+4/6/2026,Push,Body weight dips,3,0,12,0,I weighed 153
