@@ -35,24 +35,24 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 12/9/2025,Pull,Dumbbell Curls,3,15,8,360,
 12/10/2025,Leg,Lying Leg Curl,3,62.5,8,1500,Felt super easy. Add weight 
 12/10/2025,Leg,Zercher Squats,3,69.0925,8,1658.22,Felt Easy.
-12/10/2025,Leg,Calf Extension,3,120,8,2880,
+12/10/2025,Leg,Calf Raise,3,120,8,2880,
 12/10/2025,Leg,Leg Press,3,150,8,3600,
 12/13/2025,Push,Bench Press,3,124.0925,5,1861.3875,
 12/13/2025,Push,Dips ,3,146,8,3504,
-12/13/2025,Push,Incline Dumbbell Bench,2,70,8,1120,
-12/13/2025,Push,Ez Bar Skull Crushers ,3,30,8,720,
+12/13/2025,Push,Incline Dumbbell Press,2,70,8,1120,
+12/13/2025,Push,Skull Crushers ,3,30,8,720,
 12/13/2025,Push,Cable Lateral Raise,3,5,9,135,
 12/14/2025,Pull,RDL,3,145,8,3480,
-12/15/2025,Push,Dumbell Incline Bench,3,80,8,1920,
-12/15/2025,Push,Ez Bar Skullcrushers,3,30,9,810,
+12/15/2025,Push,Incline Dumbbell Press,3,80,8,1920,
+12/15/2025,Push,Skull Crushers ,3,30,9,810,
 12/15/2025,Push,Cable Lateral Raise,3,10,6,180,
 12/15/2025,Push,Overhead Press,3,8,10,240,
 1/6/2026,Pull,Back Extension,3,120,8,2880,Level up 
 1/6/2026,Pull,Lat Pull Down,3,85,8,2040,
 1/6/2026,Pull,Low Row,3,90,8,2160,
 1/6/2026,Pull,Ez Bar Curls,3,30,8,720,
-1/6/2026,Pull,Ez Bar Skull Crushers ,1,30,8,240,
-1/7/2025,Push,Incline Dumbbell Bench,3,70,8,1680,
+1/6/2026,Pull,Skull Crushers ,1,30,8,240,
+1/7/2025,Push,Incline Dumbbell Press,3,70,8,1680,
 1/7/2025,Push,Deficit Pushups,2,145,8,2320,
 1/7/2025,Push,Tricep Push Down,3,35,8,840,
 1/8/2026,Leg,RDL,3,137.4,8,3297.6,
@@ -65,17 +65,17 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 2/11/2026,Push,Bench Press,3,125,5,1875,
 2/11/2026,Push,Dips,3,15,7,315,
 2/13/2026,Leg,Calf Raise,3,60,8,1440,
-2/13/2026,Leg,Back Squats,3,95,7,1995,
+2/13/2026,Leg,Back Squat,3,95,7,1995,
 2/13/2026,Leg,RDL,3,165,7,3465,
 2/16/2026,Push,Overhead Press,3,65,9,1755,
 2/16/2026,Push,Cable Lateral Raise,3,10,8,240,
 2/16/2026,Push,Dips,3,15,8,360,
-2/16/2026,Push,Incline Dumbbell Bench,3,70,8,1680,
-2/16/2026,Push,Ez Bar Skull Crushers ,3,50,8,1200,
+2/16/2026,Push,Incline Dumbbell Press,3,70,8,1680,
+2/16/2026,Push,Skull Crushers ,3,50,8,1200,
 2/16/2026,Leg,Lying Leg Curl,3,85,8,2040,Go down weight
 2/16/2026,Leg,Zercher Squats,3,95,8,2280,Fkin hard
 2/16/2026,Leg,RDL,2,155,8,2480,
-2/16/2026,Leg,Calf Extension,3,130,50,19500,
+2/16/2026,Leg,Calf Raise,3,130,50,19500,
 2/27/2025,Pull,Pull-Ups ,3,15,5,225,
 2/27/2025,Pull,Unsupported Chest Row,3,70,8,1680,
 2/27/2025,Pull,RDL,3,135,8,3240,
@@ -84,19 +84,19 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 2/27/2025,Pull,Rear Cable Fly,3,10,8,240,
 2/27/2025,Pull,Leg Raises,3,0,13,0,Failure every set
 2/27/2025,Pull,Zercher Sandbag Carry,3,45,45,6075,
-2/28/2026,Push,Zercher Hold,3,105,1,315,
+2/28/2026,Push,Zercher Holds,3,105,1,315,
 2/28/2026,Push,Overhead Press,3,80,3,720,
-2/28/2026,Push,Incline Dumbbell Bench,3,35,3,315,
+2/28/2026,Push,Incline Dumbbell Press,3,35,3,315,
 2/28/2026,Push,Cable Lateral Raise,3,10,9,270,
 2/28/2026,Push,Dips ,3,20,7,420,Lower the weight
-2/28/2026,Push,Ez Bar Skull Crushers ,3,40,10,1200,
+2/28/2026,Push,Skull Crushers ,3,40,10,1200,
 2/28/2026,Push,Leg Raises,3,150,10,4500,
 2/28/2026,Push,Plank,2,150,1.5,450,
 2/28/2026,Push,Anti Rotation Isometric Hold,1,45,1,45,
 3/1/2026,Day,Lying Leg Curl,3,87.5,8,2100,
 3/1/2026,Leg,Back Squat ,3,95,8,2280,Started at 105 but failed on the second set.
 3/1/2026,Leg,Hip Thrusts,3,156,8,3744,First time
-3/1/2026,Leg,Calf Extension,3,121,8,2904,
+3/1/2026,Leg,Calf Raise,3,121,8,2904,
 3/1/2026,Leg,Leg Raises,3,0,15,,beyond failure
 3/1/2026,Leg,Anti Rotation Isometric Hold,1,14.5,2,29,This shit sucks ass
 3/1/2026,Leg,Farmer Carries,1,23,1,23,Walked around the track once
@@ -109,9 +109,9 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/5/2026,Leg,Seated Leg Curl,3,60,3,540,First time doing these
 3/5/2026,Leg,Zercher Squats,3,95,8,2280,
 3/5/2026,Leg,RDL,3,150,8,3600,
-3/5/2026,Leg,Standing Leg Raise,3,150,8,3600,
+3/5/2026,Leg,Leg Raise,3,150,8,3600,
 3/7/2026,Push,Pec Deck,3,40,8,960,Single arm is really good for this
-3/7/2026,Push,Dumbbell Incline Press,3,40,8,960,
+3/7/2026,Push,Incline Dumbbell Press,3,40,8,960,
 3/7/2026,Push,Overhead Press,3,10,8,240,
 3/7/2026,Push,Cable Lateral Raise,3,5,15,225,
 3/9/2026,Pull,Weighted Pull Up ,4,25,4,400,I should do 5 reps next time
@@ -123,11 +123,11 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/10/2026,Leg,Lying Leg Curl,3,90,8,2160,
 3/10/2026,Leg,Back Squat,3,120,5,1800,
 3/10/2026,Leg,Calf Raise,3,126,8,3024,
-3/10/2026,Leg,Leg Extensions ,3,50,8,1200,
+3/10/2026,Leg,Leg Extension,3,50,8,1200,
 3/10/2026,Leg,Hip Thrusts,3,190,8,4560,
 3/10/2026,Leg,Crunch Machine,3,40,8,960,
 3/10/2026,Leg,Planks,3,0,1,0,
-3/11/2026,Push,Dumbbell Incline Press,3,45,6,810,
+3/11/2026,Push,Incline Dumbbell Press,3,45,6,810,
 3/11/2026,Push,Overhead Press,3,70,7,1470,
 3/11/2026,Push,Weighted Dips,3,10,6,180,
 3/11/2026,Push,Cable Lateral Raise,3,10,8,240,
@@ -145,7 +145,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/15/2026,Leg,Leg Curl,3,70,8,1680,"Settings: 2, 5"
 3/15/2026,Leg,Zercher Squats,3,115,6,2070,
 3/15/2026,Leg,Hip Thrusts,3,200,8,4800,
-3/15/2026,Leg,Leg Extention,3,60,8,1440,
+3/15/2026,Leg,Leg Extension,3,60,8,1440,
 3/15/2026,Leg,Calf Raise,3,144,8,3456,
 3/15/2026,Leg,Crunch Machine,3,45,10,1350,
 3/15/2026,Leg,Plank,2,0,2,0,
@@ -159,7 +159,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/17/2026,Push,Overhead Press,3,60,8,1440,
 3/17/2026,Push,Weighted Dips,3,10,8,240,
 3/17/2026,Push,Cable Lateral Raise,3,10,8,240,
-3/17/2026,Push,Ez Bar Skull Crushers ,3,50,8,1200,
+3/17/2026,Push,Skull Crushers ,3,50,8,1200,
 3/17/2026,Push,Pec Deck,3,40,9,1080,
 3/17/2026,Push,Farmer'S Carry,1,22.1,1,22.1,One lap per side
 3/17/2026,Push,Crunch Machine,3,45,8,1080,
@@ -175,7 +175,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/21/2026,Push,Overhead Press,3,70,8,1680,
 3/21/2026,Push,Body Weight Dips,3,0,9,0,
 3/21/2026,Push,Cable Lateral Raise,3,10,8,240,
-3/21/2026,Push,Cable Push Down,3,40,8,960,
+3/21/2026,Push,Tricep Push Down,3,40,8,960,
 3/21/2026,Push,Leg Raises,3,0,12,0,
 3/21/2026,Push,Plank,2,0,1,0,
 3/22/2026,Leg,Leg Curl,3,72.5,8,1740,
@@ -190,14 +190,14 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/23/2026,Pull,Unsupported Chest Row,3,80,8,1920,
 3/23/2026,Pull,Face Pulls,3,30,12,1080,
 3/23/2026,Pull,Zottmen Curls,3,20,8,480,
-3/24/2026,Leg,Lying Leg Curls,3,20,,0,
+3/24/2026,Leg,Lying Leg Curl,3,87.5,8,2100,
 4/1/2026,Pull,RDL,3,185,7,3885,Imma stay at this weight
 4/1/2026,Pull,Weighted Pull Ups,3,10,8,240,The closer the grip the easier
-4/1/2026,Pull,Standing Barbell Rows,3,95,8,2280,
+4/1/2026,Pull,Barbell Rows,3,95,8,2280,
 4/1/2026,Pull,Single Arm Rear Delt Fly,3,10,10,300,
 4/1/2026,Pull,Wide Grip Ez Bar Curls,3,50,8,1200,
 4/1/2026,Pull,Crunch Machine,3,45,15,2025,
-4/2/2026,Push,Dumbell Incline Bench,3,45,8,1080,
+4/2/2026,Push,Incline Dumbbell Press,3,45,8,1080,
 4/2/2026,Push,Overhead Press,3,70,8,1680,
 4/2/2026,Push,Weighted Dips,3,10,8,240,add weight
 4/2/2026,Push,Cable Lateral Raise,3,10,9,270,
@@ -208,9 +208,9 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 4/5/2026,Pull,Barbell Rows,3,96,8,2304,
 4/5/2026,Pull,Single Arm Rear Delt Fly,3,10,9,270,
 4/5/2026,Pull,Narrow Ez Bar Curl,3,50,8,1200,
-4/5/2026,Pull,Zercher Hold,3,55,1,165,1 min per set
+4/5/2026,Pull,Zercher Holds,3,155,1,465,1 min per set
 4/5/2026,Pull,Crunch Machine,3,50,15,2250,
 4/6/2026,Push,Overhead Press,3,75,8,1800,
-4/6/2026,Push,Dumbell Incline Bench,3,45,8,1080,
+4/6/2026,Push,Incline Dumbbell Press,3,45,8,1080,
 4/6/2026,Push,Cable Lateral Raise,3,12.5,6,225,
 4/6/2026,Push,Body Weight Dips,3,0,12,0,I weighed 153
