@@ -26,7 +26,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 12/7/2025,Push,Cable Lateral Raise,3,5,12,180,
 12/7/2025,Push,Dumbbell Lateral Raise,3,12.5,8,300,
 12/7/2025,Push,Overhead Press,3,74.0925,6,1333.665,
-12/9/2025,Pull,Pull-Ups ,3,145,6,2610,CPCC gym
+12/9/2025,Pull,Pull-Ups ,3,0,6,0,CPCC gym
 12/9/2025,Pull,Low Row,3,85,8,2535,
 12/9/2025,Pull,Lat Pull Down,3,85,8,2040,
 12/9/2025,Pull,Narrow Lat Pull Down,2,85,8,1360,
@@ -60,7 +60,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 2/9/2026,Pull,RDL,3,164.0925,6,2953.665,
 2/9/2026,Pull,Weighted Pull Up ,3,10,6,180,
 2/9/2026,Pull,Unsupported T-Bar Row,3,70,8,1680,
-2/9/2026,Pull,Inverse Zottmen Curls,3,22.75,8,546,
+2/9/2026,Pull,Zottman Curls,3,22.75,8,546,
 2/9/2026,Pull,Side To Side Hammer Curls,3,20,7,420,
 2/11/2026,Push,Bench Press,3,125,5,1875,
 2/11/2026,Push,Weighted Dips,3,15,7,315,
@@ -76,7 +76,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 2/16/2026,Leg,Zercher Squats,3,95,8,2280,Fkin hard
 2/16/2026,Leg,RDL,2,155,8,2480,
 2/16/2026,Leg,Calf Raise,3,130,8,3120,
-2/27/2025,Pull,Pull-Ups ,3,15,5,225,
+2/27/2025,Pull,Weighted Pull Up ,3,15,5,225,
 2/27/2025,Pull,Unsupported T-Bar Row,3,70,8,1680,
 2/27/2025,Pull,RDL,3,135,8,3240,
 2/27/2025,Pull,Ez Bar Curls,2,50,8,800,
@@ -138,7 +138,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/12/2026,Pull,Weighted Pull Up ,4,25,5,500,
 3/12/2026,Pull,Unsupported T-Bar Row,4,80,6,1920,
 3/12/2026,Pull,Rear Delt Fly,3,5,12,180,
-3/12/2026,Pull,Zottman Curls,3,22.5,6,405,
+3/12/2026,Pull,Zottmen Curls,3,22.5,6,405,
 3/12/2026,Pull,Lat Prayer,3,90,8,2160,
 3/12/2026,Pull,Crunch Machine,2,40,20,1600,
 3/12/2026,Pull,Hollow Hold,2,0,1,0,
