@@ -142,7 +142,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/12/2026,Pull,Lat Prayer,3,90,8,2160,
 3/12/2026,Pull,Crunch Machine,2,40,20,1600,
 3/12/2026,Pull,Hollow Hold,2,0,1,0,
-3/15/2026,Leg,Leg Curl,3,70,8,1680,"Settings: 2, 5"
+3/15/2026,Leg,Seated Leg Curl,3,70,8,1680,"Settings: 2, 5"
 3/15/2026,Leg,Zercher Squats,3,115,6,2070,
 3/15/2026,Leg,Hip Thrusts,3,200,8,4800,
 3/15/2026,Leg,Leg Extension,3,60,8,1440,
@@ -178,7 +178,7 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 3/21/2026,Push,Tricep Push Down,3,40,8,960,
 3/21/2026,Push,Leg Raises,3,0,12,0,
 3/21/2026,Push,Plank,2,0,1,0,
-3/22/2026,Leg,Leg Curl,3,72.5,8,1740,
+3/22/2026,Leg,Seated Leg Curl,3,72.5,8,1740,
 3/22/2026,Leg,Zercher Squats,3,115,7,2415,
 3/22/2026,Leg,Hip Thrusts,3,215,9,5805,
 3/22/2026,Leg,Calf Raise,3,154,8,3696,
@@ -239,3 +239,9 @@ Date,Day,Exercises,Set #,Weight,# of Reps,Volume,Notes
 4/12/2026,Push,Cable Lateral Raise,2,10,10,200,
 4/12/2026,Push,Skull Crushers ,3,60,8,1440,
 4/12/2026,Push,Crunch Machine,3,55,15,2475,
+4/13/2026,Leg,Seated Leg Curl,3,75,8,1800,
+4/13/2026,Leg,Zercher Squats,3,125,7,2625,
+4/13/2026,Leg,Calf Raise,3,154,8,3696,
+4/13/2026,Leg,Hip Thrusts,3,225,10,6750,
+4/13/2026,Leg,Leg Extension,3,110,8,2640,
+,,Leg Raises,3,0,12,0,
