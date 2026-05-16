@@ -1,9 +1,26 @@
 import json
 import os
+import time
 import gspread
 import csv
 from google.oauth2.service_account import Credentials
 from dotenv import load_dotenv
+
+RETRY_DELAYS = (10, 30, 60)
+RETRYABLE_STATUS_CODES = {429, 500, 503}
+
+
+def fetch_all_values(ws):
+    for attempt, delay in enumerate(RETRY_DELAYS, start=1):
+        try:
+            return ws.get_all_values()
+        except gspread.exceptions.APIError as e:
+            status = getattr(getattr(e, "response", None), "status_code", None)
+            if status not in RETRYABLE_STATUS_CODES:
+                raise
+            print(f"gspread APIError {status} on attempt {attempt}; retrying in {delay}s")
+            time.sleep(delay)
+    return ws.get_all_values()
 
 load_dotenv()
 
@@ -26,7 +43,7 @@ spreadsheet = client.open_by_key(sheet_id)
 worksheet = spreadsheet.sheet1
 
 # Get all values (including header row)
-data = worksheet.get_all_values()
+data = fetch_all_values(worksheet)
 
 # Write to CSV
 with open("output.csv", "w", newline="", encoding="utf-8") as f:
