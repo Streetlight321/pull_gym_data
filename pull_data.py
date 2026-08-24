@@ -185,7 +185,7 @@ def push_to_supabase(records):
 
 # ---------------------------------------------------------------------------
 
-def write_csv(rows, path="new_output.csv"):
+def write_csv(rows, path="output.csv"):
     with open(path, "w", newline="", encoding="utf-8") as f:
         csv.writer(f).writerows(rows)
     print(f"Export complete -> {path}")
